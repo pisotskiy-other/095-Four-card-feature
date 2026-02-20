@@ -1,3 +1,4 @@
+.idea/
 node_modules/
 task/
 
@@ -8,3 +9,6 @@ task/
 *.sketch
 *.fig
 *.xd
+
+# AI assistant "Windsurf" (Codeium - older name).
+.codeiumignore
